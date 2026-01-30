@@ -13,30 +13,12 @@ I enjoy combining **data, code, and creativity** to make an impact whether it’
 
 ---
 
-## 🧠 Languages & Scripting
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,sql,html,css" />
-</p>
-
-## 🌐 Web & Frameworks
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=flask,react" />
-</p>
-
-## 📊 Data & Machine Learning
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=pandas,matplotlib,seaborn,sklearn,opencv" />
-</p>
-
-## 🗄️ Databases & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,github,vscode,figma,excel" />
-</p>
-
-## 💻 Operating Systems
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=windows,linux" />
-</p>
+### 🛠️ Skills & Tools
+**Languages & Scripting:** Python| Java | C++ | SQL | HTML | CSS  
+**Web & Frameworks:** Flask | React 
+**Data & ML:** Pandas 📊 | Matplotlib 📈 | Seaborn | Scikit-learn | OpenCV  
+**Databases & Tools:** MongoDB | MySQL | GitHub | VSCode | Figma | Excel | SharePoint  
+**Operating Systems:** Windows 🖥️ | Linux  
 
 
 ### 💼 Experience
