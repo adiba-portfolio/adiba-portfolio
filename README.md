@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Adiba Hossain</h2>
+<h2 align="center">Adiba Hossain</h2>
 <h4 align="center">A Computer Science student passionate about AI, data analytics, and building tech solutions that create real-world impact 🌎</h4>
 
 ---
