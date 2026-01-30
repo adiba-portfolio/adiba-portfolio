@@ -81,5 +81,3 @@ I enjoy combining **data, code, and creativity** to make an impactâ€”whether itâ
 [LinkedIn](https://www.linkedin.com/in/adiba-hossain-65b3212b6) | [Email](mailto:adibah2260@gmail.com) | [Portfolio](#)  
 
 ---
-
-<img src="https://raw.githubusercontent.com/adiba-portfolio/adiba-portfolio/output/snake.svg" alt="Snake animation" />
