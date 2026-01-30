@@ -3,26 +3,22 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adiba-portfolio&show_icons=true&theme=radical" height="150" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adiba-portfolio&layout=compact&theme=radical" height="150" alt="Top Languages"/>
-</div>
-
----
-
-### About Me
-I am a **Computer Science student at Mount Royal University**, graduating in 2027. I love using **technology to solve real-world problems**, whether that’s improving community services, developing AI solutions, or building web apps that enhance user experiences.  
+### About Me 🌟
+I am a **Computer Science student at Mount Royal University**, graduating in 2027.  
+I love using **technology to solve real-world problems**, whether that’s improving community services, developing AI solutions, or building web apps that enhance user experiences.  
 
 I enjoy combining **data, code, and creativity** to make an impact—whether it’s a **health monitoring tool**, an **AI-powered task manager**, or an **inclusive community project**. I thrive in collaborative environments and am always eager to learn and experiment with new technologies.  
 
+💡 **Fun Fact:** I’m passionate about **bridging tech with community impact**—seeing the tangible results of my work inspires me every day.  
+
 ---
 
-### 🛠️ Skills
-**Programming & Scripting:** Python | Java | C++ | SQL | HTML | CSS  
-**Web & Frameworks:** Flask | React  
-**Data & ML:** Pandas | Matplotlib | Seaborn | Scikit-learn | OpenCV  
+### 🛠️ Skills & Tools
+**Languages & Scripting:** Python 🐍 | Java ☕ | C++ | SQL | HTML | CSS  
+**Web & Frameworks:** Flask | React ⚛️  
+**Data & ML:** Pandas 📊 | Matplotlib 📈 | Seaborn | Scikit-learn | OpenCV  
 **Databases & Tools:** MongoDB | MySQL | GitHub | VSCode | Figma | Excel | SharePoint  
-**Operating Systems:** Windows | Linux  
+**Operating Systems:** Windows 🖥️ | Linux 🐧  
 
 ---
 
@@ -66,6 +62,8 @@ I enjoy combining **data, code, and creativity** to make an impact—whether it�
 - **AI-Powered Task Manager:** Personalized task planning and prioritization  
 - **Savar Clothing Brand Website:** Full-stack responsive e-commerce platform  
 
+✨ **Highlight:** Every project I do has the goal of **creating tangible benefits for real people**, not just for learning purposes.  
+
 ---
 
 ### 🌟 Interests & Highlights
@@ -81,3 +79,5 @@ I enjoy combining **data, code, and creativity** to make an impact—whether it�
 [LinkedIn](https://www.linkedin.com/in/adiba-hossain-65b3212b6) | [Email](mailto:adibah2260@gmail.com) | [Portfolio](#)  
 
 ---
+
+<p align="center">🚀 Always exploring, learning, and building for impact!</p>
