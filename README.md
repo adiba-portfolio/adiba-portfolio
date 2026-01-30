@@ -30,7 +30,7 @@ I enjoy combining **data, code, and creativity** to make an impact whether it’
 
 ## 🗄️ Databases & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,github,vscode,figma,excel" />
 </p>
 
 ## 💻 Operating Systems
@@ -38,8 +38,6 @@ I enjoy combining **data, code, and creativity** to make an impact whether it’
   <img src="https://skillicons.dev/icons?i=windows,linux" />
 </p>
 
-
----
 
 ### 💼 Experience
 **Jr. Software Architect Intern — Ebenezer Solution (Remote)**  
