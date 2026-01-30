@@ -9,16 +9,16 @@ I love using **technology to solve real-world problems**, whether that’s impro
 
 I enjoy combining **data, code, and creativity** to make an impact—whether it’s a **health monitoring tool**, an **AI-powered task manager**, or an **inclusive community project**. I thrive in collaborative environments and am always eager to learn and experiment with new technologies.  
 
-💡 **Fun Fact:** I’m passionate about **bridging tech with community impact**—seeing the tangible results of my work inspires me every day.  
+💡 **Fun Fact:** I’m passionate about **bridging tech with community impact** seeing the tangible results of my work inspires me every day.  
 
 ---
 
 ### 🛠️ Skills & Tools
-**Languages & Scripting:** Python 🐍 | Java ☕ | C++ | SQL | HTML | CSS  
-**Web & Frameworks:** Flask | React ⚛️  
+**Languages & Scripting:** Python| Java | C++ | SQL | HTML | CSS  
+**Web & Frameworks:** Flask | React 
 **Data & ML:** Pandas 📊 | Matplotlib 📈 | Seaborn | Scikit-learn | OpenCV  
 **Databases & Tools:** MongoDB | MySQL | GitHub | VSCode | Figma | Excel | SharePoint  
-**Operating Systems:** Windows 🖥️ | Linux 🐧  
+**Operating Systems:** Windows 🖥️ | Linux   
 
 ---
 
