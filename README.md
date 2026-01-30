@@ -7,7 +7,7 @@
 I am a **Computer Science student at Mount Royal University**, graduating in 2027.  
 I love using **technology to solve real-world problems**, whether that’s improving community services, developing AI solutions, or building web apps that enhance user experiences.  
 
-I enjoy combining **data, code, and creativity** to make an impact—whether it’s a **health monitoring tool**, an **AI-powered task manager**, or an **inclusive community project**. I thrive in collaborative environments and am always eager to learn and experiment with new technologies.  
+I enjoy combining **data, code, and creativity** to make an impact whether it’s a **health monitoring tool**, an **AI-powered task manager**, or an **inclusive community project**. I thrive in collaborative environments and am always eager to learn and experiment with new technologies.  
 
 💡 **Fun Fact:** I’m passionate about **bridging tech with community impact** seeing the tangible results of my work inspires me every day.  
 
