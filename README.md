@@ -4,16 +4,19 @@
 ---
 
 ### About Me 🌟
+
 I am a **Computer Science student at Mount Royal University**.  
 I love using **technology to solve real-world problems**, whether that’s improving community services, developing AI solutions, or building web apps that enhance user experiences.  
 
 I enjoy combining **data, code, and creativity** to make an impact whether it’s a **health monitoring tool**, an **AI-powered task manager**, or an **inclusive community project**. I thrive in collaborative environments and am always eager to learn and experiment with new technologies.  
 
-💡 **Fun Fact:** I’m passionate about **bridging tech with community impact** seeing the tangible results of my work inspires me every day.  
+💡 **Fun Fact:** 
+I’m passionate about **bridging tech with community impact** seeing the tangible results of my work inspires me every day.  
 
 ---
 
 ### 🛠️ Skills & Tools
+
 **Languages & Scripting:** Python| Java | C++ | SQL | HTML | CSS  
 **Web & Frameworks:** Flask | React 
 **Data & ML:** Pandas 📊 | Matplotlib 📈 | Seaborn | Scikit-learn | OpenCV  
@@ -22,6 +25,7 @@ I enjoy combining **data, code, and creativity** to make an impact whether it’
 
 
 ### 💼 Experience
+
 **Jr. Software Architect Intern — Ebenezer Solution (Remote)**  
 *Sep 2025 – Present*  
 - Designed responsive web & mobile interfaces using React and HTML/CSS  
@@ -56,6 +60,7 @@ I enjoy combining **data, code, and creativity** to make an impact whether it’
 ---
 
 ### 📂 Projects
+
 - **Health Monitoring Program:** Python program to track metrics like heart rate and fever  
 - **Pension Income Calculator:** Tool for accurate pension forecasting  
 - **AI-Powered Task Manager:** Personalized task planning and prioritization  
@@ -66,6 +71,7 @@ I enjoy combining **data, code, and creativity** to make an impact whether it’
 ---
 
 ### 🌟 Interests & Highlights
+
 - Leveraging **AI, data analytics, and web development** to solve real-world problems  
 - Passionate about **mental health research, community impact, and biotechnology**  
 - Competitive programming enthusiast, constantly learning and solving challenges  
